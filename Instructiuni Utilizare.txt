@@ -1,0 +1,3 @@
+									Instructiuni utilizare:
+	-Fiecare piese folosita in asamblul final poate sa fie gasita in folderele "Piese" si "Blocks".
+  	-Fisierul "placa_asamblata.dwg" reprezinta placa de skateboard asamblata cu toate piesele ei.
